@@ -1,0 +1,193 @@
+/*Main*/
+
+.h4 {
+	font: bold 12pt arial}
+	
+.text 
+		{
+		font-family: verdana, helvetica, arial;
+		text-decoration: none;
+		font-size:11px;
+		
+		}
+		
+.textspread 
+		{
+		font-family: verdana, helvetica, arial;
+		text-decoration: none;
+		font-size:10px;
+		line-height: 1.2em
+		}		
+
+.loggedin 
+	{
+	font-family: verdana, helvetica, arial;
+	text-decoration: none;
+	font-size: 10px;
+/*	position: absolute; */
+/*	left: 21; */
+/*	top: 0; */
+/*	width: 204; */
+/*	height: 42; */
+}
+
+.caption {
+	font: 8pt arial;
+	color: #616161}
+	
+/*Side Nav Links*/	
+	
+a.navside:link {
+	font: 11px verdana;
+	color: #616161;
+	text-decoration: none}
+
+a.navside:active {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+a.navside:visited {
+	font:  11px verdana;
+	color: #616161;
+	text-decoration: none}
+
+a.navside:hover {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+/*Side Nav Links Active*/	
+	
+a.navsideactive:link {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+a.navsideactive:active {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+a.navsideactive:visited {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+a.navsideactive:hover {
+	font: 11px verdana;
+	color: #000000;
+	text-decoration: none}
+
+/*Nav Special*/
+
+a.navdir:link {
+	text-decoration: none}
+
+a.navdir:hover {
+        text-decoration: underline}
+			
+/*Main Nav Links*/	
+	
+a.navmain:link {
+	font: 10px arial;
+	color: #616161;
+	text-decoration: none}
+
+a.navmain:active {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+
+a.navmain:visited {
+	font:  10px arial;
+	color: #616161;
+	text-decoration: none}
+
+a.navmain:hover {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+
+/*Main Nav Links Active*/	
+	
+a.navmainactive:link {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+
+a.navmainactive:active {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+
+a.navmainactive:visited {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+
+a.navmainactive:hover {
+	font: 10px arial;
+	color: #000000;
+	text-decoration: none}
+	
+/*Main Nav Links*/	
+	
+a.navmainon:link {
+	font: 12px arial;
+	color: #616161;
+	text-decoration: none}
+
+a.navmainon:active {
+	font: 12px arial;
+	color: #000000;
+	text-decoration: none}
+
+a.navmainon:visited {
+	font: 12px arial;
+	color: #616161;
+	text-decoration: none}
+
+a.navmainon:hover {
+	font: 12px arial;
+	color: #000000;
+	text-decoration: none}
+	
+/*General Links*/
+
+a.link {
+	color: #616161;
+	text-decoration: underline}
+
+a:active {
+	color: #000000;
+	text-decoration: underline}
+
+a:visited {
+	color: #616161;
+	text-decoration: underline}
+
+a:hover {
+	color: #000000;
+	text-decoration: underline}	
+
+/*
+     FILE ARCHIVED ON 23:44:24 Aug 06, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:01:40 Sep 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.652
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.02
+  esindex: 0.01
+  cdx.remote: 38.363
+  LoadShardBlock: 50.266 (3)
+  PetaboxLoader3.datanode: 97.174 (4)
+  load_resource: 150.678
+  PetaboxLoader3.resolve: 37.355
+*/
